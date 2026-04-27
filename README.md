@@ -1,4 +1,4 @@
-<img width="1246" height="707" alt="image" src="https://github.com/user-attachments/assets/0a1285af-e030-4796-a202-ee54b9c36c2e" /># 📊 Employee Attrition Analysis
+# 📊 Employee Attrition Analysis
 Analyzing employee attrition to identify trends and improve retention strategies using data
 
 ## 🎯 Objectives
